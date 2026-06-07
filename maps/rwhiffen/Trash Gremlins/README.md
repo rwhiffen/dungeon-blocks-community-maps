@@ -16,4 +16,10 @@ Both were used used haphazardly - you could also just use MT1-035 depending on t
 
 There are a few places where the walls don't align perfectly.  This was a deliberate choice to minimize tiles.  You can easily modify 
 
+The layout:
+![](Trash%20Gremlins.png)
+
 The build list ![](build-list.png)
+
+The source map:
+![](trash%20gremlins%20upstairs%20source%20map.png)
