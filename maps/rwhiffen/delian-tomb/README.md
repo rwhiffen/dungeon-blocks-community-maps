@@ -5,7 +5,7 @@ This was my take on the module [The Delian Tomb](https://homebrewery.naturalcrit
 
 This build uses [THE ULTIMATE DUNGEON](https://www.myminifactory.com/object/3d-print-the-ultimate-dungeon-dungeon-blocks-299141) 
 
-![](Origianl Map.png)
+![](Origianl%20Map.png)
 
 
 Couple of design choices - I made each room 6x6 and I made them into separate maps.  I would set up each room in succession on the table, but would not have them connected together.  The map would get quite large if you did them as a single map.  It wouldn't be too difficult to add the passages between the rooms that are drawn on the map.  The "secret" side of secret doors are normal walls.  If they found the secret I would just remove the wall tile and replace it with a floor tile.
@@ -16,17 +16,17 @@ Build list:
 ![](entrance-build.png)
 
 The Offering Room - I had other scatter terrain peices to augment this room.
-![](offering.png)
+![](Delian%20tomb%20Room%202%20-%20Offering%20Room.png)
 Build list:
 ![](offering-build.png)
 
-The Hall of the Oath Keeper - I took a piece of floor and turn it upside down and put a paladin mini on it to be the statue.  I had scatter terrain for the rest.
-![](hall.png)
+The Hall of the Oath Keeper - I took a piece of floor and turn it upside down and put a paladin mini on it to be the statue.  I had scatter terrain for the rest of the room description.
+![](Delian%20tomb%20room%203%20-%20Hall%20of%20Oath%20Keeper.png)
 Build list:
 ![](hall-build.png)
 
 The Tomb - I used one Dungeon Block to look like the main sarcophagus and some other scatter terrain coffins to reperesent the other ones.
 
-![](tomb.png)
+![](Delian%20tomb%20room%204%20-%20Tomb.png)
 Build list:
 ![](tomb-build.png)
