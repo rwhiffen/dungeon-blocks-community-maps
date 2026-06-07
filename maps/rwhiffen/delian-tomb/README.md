@@ -11,7 +11,7 @@ This build uses [THE ULTIMATE DUNGEON](https://www.myminifactory.com/object/3d-p
 Couple of design choices - I made each room 6x6 and I made them into separate maps.  I would set up each room in succession on the table, but would not have them connected together.  The map would get quite large if you did them as a single map.  It wouldn't be too difficult to add the passages between the rooms that are drawn on the map.  The "secret" side of secret doors are normal walls.  If they found the secret I would just remove the wall tile and replace it with a floor tile.
 
 The entrance - I uses some scatter terrain barrels and boxes to give the goblins something to shoot arrows from behind.
-![](entrance.png)
+![](Delian%20Tomb%20Room%201%20-%20Entrance.png)
 Build list:
 ![](entrance-build.png)
 
