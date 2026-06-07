@@ -12,10 +12,17 @@ function toRepoRel(absolutePath) {
 }
 
 function findImage(basePath) {
-  for (const ext of IMAGE_EXTS) {
-    const p = basePath + ext;
-    if (fs.existsSync(p)) {
-      return toRepoRel(p);
+  const dir = path.dirname(basePath);
+  const baseName = path.basename(basePath).toLowerCase();
+
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  for (const entry of entries) {
+    if (!entry.isFile()) continue;
+    const ext = path.extname(entry.name).toLowerCase();
+    if (!IMAGE_EXTS.includes(ext)) continue;
+    const nameNoExt = entry.name.slice(0, -ext.length).toLowerCase();
+    if (nameNoExt === baseName) {
+      return toRepoRel(path.join(dir, entry.name));
     }
   }
   return null;
