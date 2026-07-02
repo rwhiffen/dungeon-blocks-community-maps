@@ -1,0 +1,439 @@
+{
+  "ownerId": "5RfMpfg8E4ZMBJaB5pGiHEoxVZ13",
+  "modificationDate": "2026-01-12T22:15:38.020Z",
+  "title": "Highlands",
+  "levels": [
+    {
+      "tiles": [
+        {
+          "element": "BB-001",
+          "y": 0,
+          "orientation": 0,
+          "x": 0
+        },
+        {
+          "y": 3,
+          "orientation": 0,
+          "x": 0,
+          "element": "BB-001"
+        },
+        {
+          "y": 6,
+          "orientation": 0,
+          "x": 0,
+          "element": "BB-001"
+        },
+        {
+          "element": "BB-001",
+          "x": 3,
+          "y": 0,
+          "orientation": 0
+        },
+        {
+          "element": "BB-001",
+          "x": 3,
+          "y": 3,
+          "orientation": 0
+        },
+        {
+          "element": "BB-001",
+          "x": 3,
+          "orientation": 0,
+          "y": 6
+        },
+        {
+          "element": "BB-001",
+          "y": 0,
+          "orientation": 0,
+          "x": 6
+        },
+        {
+          "orientation": 0,
+          "y": 3,
+          "x": 6,
+          "element": "BB-001"
+        },
+        {
+          "orientation": 0,
+          "y": 6,
+          "x": 6,
+          "element": "BB-001"
+        },
+        {
+          "x": 9,
+          "y": 3,
+          "orientation": 0,
+          "element": "BB-001"
+        },
+        {
+          "x": 9,
+          "orientation": 0,
+          "y": 0,
+          "element": "BB-001"
+        },
+        {
+          "element": "BB-001",
+          "y": -3,
+          "orientation": 0,
+          "x": 9
+        },
+        {
+          "x": 6,
+          "y": -3,
+          "orientation": 0,
+          "element": "BB-001"
+        },
+        {
+          "element": "BB-001",
+          "x": 3,
+          "orientation": 0,
+          "y": -3
+        },
+        {
+          "element": "BB-001",
+          "x": 0,
+          "y": -3,
+          "orientation": 0
+        },
+        {
+          "x": 0,
+          "orientation": 0,
+          "y": -6,
+          "element": "BB-001"
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "y": -6,
+          "element": "BB-001"
+        },
+        {
+          "element": "BB-001",
+          "orientation": 0,
+          "y": -6,
+          "x": 6
+        },
+        {
+          "x": 9,
+          "y": -6,
+          "orientation": 0,
+          "element": "BB-001"
+        },
+        {
+          "orientation": 0,
+          "y": -9,
+          "x": 9,
+          "element": "BB-001"
+        },
+        {
+          "element": "BB-001",
+          "orientation": 0,
+          "y": -9,
+          "x": 6
+        },
+        {
+          "element": "BB-001",
+          "x": 3,
+          "orientation": 0,
+          "y": -9
+        },
+        {
+          "y": -9,
+          "orientation": 0,
+          "x": 0,
+          "element": "BB-001"
+        },
+        {
+          "x": 12,
+          "orientation": 0,
+          "y": 6,
+          "element": "BB-001"
+        },
+        {
+          "element": "BB-001",
+          "orientation": 0,
+          "y": 6,
+          "x": 9
+        },
+        {
+          "element": "BB-001",
+          "x": 12,
+          "orientation": 0,
+          "y": 3
+        },
+        {
+          "y": 0,
+          "orientation": 0,
+          "x": 12,
+          "element": "BB-001"
+        },
+        {
+          "x": 12,
+          "y": -3,
+          "orientation": 0,
+          "element": "BB-001"
+        },
+        {
+          "element": "BB-001",
+          "orientation": 0,
+          "y": -6,
+          "x": 12
+        },
+        {
+          "x": 12,
+          "orientation": 0,
+          "y": -9,
+          "element": "BB-001"
+        }
+      ],
+      "index": 0
+    },
+    {
+      "tiles": [
+        {
+          "element": "MH-133",
+          "x": 6,
+          "orientation": 0,
+          "y": -3
+        },
+        {
+          "element": "MH-167",
+          "y": 3,
+          "orientation": 0,
+          "x": 3
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "orientation": 0,
+          "element": "MH-903"
+        },
+        {
+          "element": "MH-903",
+          "y": 0,
+          "orientation": 0,
+          "x": 0
+        },
+        {
+          "x": 0,
+          "orientation": 0,
+          "y": -3,
+          "element": "MH-903"
+        },
+        {
+          "orientation": 0,
+          "y": -3,
+          "x": 3,
+          "element": "MH-903"
+        },
+        {
+          "element": "MH-903",
+          "x": 0,
+          "y": -6,
+          "orientation": 0
+        },
+        {
+          "element": "MH-903",
+          "x": 3,
+          "y": -6,
+          "orientation": 0
+        },
+        {
+          "x": 3,
+          "y": -9,
+          "orientation": 0,
+          "element": "MH-903"
+        },
+        {
+          "orientation": 0,
+          "y": -9,
+          "x": 0,
+          "element": "MH-903"
+        },
+        {
+          "element": "MH-061",
+          "x": 9,
+          "orientation": 0,
+          "y": 3
+        },
+        {
+          "orientation": 0,
+          "y": 3,
+          "x": 6,
+          "element": "MH-052"
+        },
+        {
+          "x": 14,
+          "orientation": 2,
+          "y": 5,
+          "element": "MH-053"
+        },
+        {
+          "element": "MH-053",
+          "orientation": 0,
+          "y": 0,
+          "x": 12
+        },
+        {
+          "element": "MH-012",
+          "x": 14,
+          "orientation": 1,
+          "y": -9
+        },
+        {
+          "element": "MH-010",
+          "x": 12,
+          "y": -6,
+          "orientation": 0
+        },
+        {
+          "x": 11,
+          "orientation": 2,
+          "y": -4,
+          "element": "MH-009"
+        },
+        {
+          "element": "MH-030",
+          "y": 6,
+          "orientation": 0,
+          "x": 12
+        },
+        {
+          "orientation": 0,
+          "y": 0,
+          "x": 3,
+          "element": "MH-127"
+        },
+        {
+          "orientation": 0,
+          "y": -6,
+          "x": 6,
+          "element": "MH-129"
+        },
+        {
+          "orientation": 0,
+          "y": 6,
+          "x": 6,
+          "element": "MH-032"
+        },
+        {
+          "element": "MH-903",
+          "x": 0,
+          "y": 6,
+          "orientation": 0
+        },
+        {
+          "element": "MH-117",
+          "orientation": 0,
+          "y": 6,
+          "x": 3
+        },
+        {
+          "y": 0,
+          "orientation": 1,
+          "x": 11,
+          "element": "MH-027"
+        },
+        {
+          "y": 6,
+          "orientation": 0,
+          "x": 9,
+          "element": "MH-020"
+        },
+        {
+          "element": "MH-017",
+          "orientation": 0,
+          "y": -3,
+          "x": 9
+        },
+        {
+          "element": "MH-003",
+          "x": 12,
+          "orientation": 0,
+          "y": -3
+        },
+        {
+          "x": 6,
+          "orientation": 0,
+          "y": -9,
+          "element": "MH-120"
+        },
+        {
+          "element": "MH-124",
+          "x": 11,
+          "orientation": 1,
+          "y": -9
+        },
+        {
+          "x": 6,
+          "orientation": 0,
+          "y": 0,
+          "element": "MH-001"
+        }
+      ],
+      "index": 1
+    },
+    {
+      "tiles": [
+        {
+          "element": "MH-053",
+          "orientation": 3,
+          "y": 5,
+          "x": 0
+        },
+        {
+          "element": "MH-130",
+          "y": -9,
+          "orientation": 0,
+          "x": 0
+        },
+        {
+          "element": "MH-168",
+          "x": 0,
+          "y": -6,
+          "orientation": 0
+        },
+        {
+          "element": "MH-158",
+          "x": 0,
+          "y": -3,
+          "orientation": 0
+        },
+        {
+          "orientation": 0,
+          "y": 0,
+          "x": 0,
+          "element": "MH-158"
+        },
+        {
+          "element": "MH-134",
+          "x": 5,
+          "y": -9,
+          "orientation": 1
+        },
+        {
+          "element": "MH-005",
+          "y": 6,
+          "orientation": 0,
+          "x": 0
+        },
+        {
+          "y": -3,
+          "orientation": 0,
+          "x": 3,
+          "element": "MH-001"
+        },
+        {
+          "orientation": 0,
+          "y": -6,
+          "x": 3,
+          "element": "MH-002"
+        }
+      ],
+      "index": 10
+    }
+  ],
+  "description": "",
+  "creationDate": "2026-01-12T21:54:22.008Z",
+  "id": "66b09bab-90e8-4957-8400-882010008b52"
+}
