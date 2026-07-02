@@ -11,7 +11,7 @@ The "false tomb" portion:
 
 ![Burial Mound of Esur the Red](Burial%20Mound%20of%20Esur%20the%20Red.png)
 
-![The Build List](Burial%20Mound%20of%20Esur%20the%20Red-Build%20List.png)
+![The Build List](Burial%20Mound%20of%20Esur%20the%20Red-build%20list.png)
 
 The "real tomb" portion:
 ![Burial Mound of Esur the Red Secret entrance](Burial%20Mound%20of%20Esur%20the%20Red%20Secret%20entrance.png)
