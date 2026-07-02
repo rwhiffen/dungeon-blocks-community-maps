@@ -2,6 +2,8 @@ This is my take on the one-shot [Burial Mound of Esur the Red](https://dysonlogo
 
 There's technically two maps - The real tomb isn't connected to the false tomb so I made it two separate maps so they players won't see it on the board in front of them.   Additionally I didn't make it multi-level so no stairs up or down.  There's also a bunch of spots where the tiles didn't map out perfectly so I have a wall tile in backwards or the like.  I also put a door floating in space for use if they find the secret exit/entrance half way down the map. 
 
+This layout uses the [Ultimate Dungeon](https://www.myminifactory.com/object/3d-print-the-ultimate-dungeon-dungeon-blocks-299141) block set only. 
+
 The map this is based on:
 
 ![Burial Mound Map](burial-mound-small.jpg)

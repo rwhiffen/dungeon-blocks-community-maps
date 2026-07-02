@@ -1,6 +1,6 @@
 This was my take on the random encounter Eliat’s Lost Familiars.  I found it on Encounter Vault - [https://encountervault.com/](https://encountervault.com/)
 
-When I checked on June 6 2026 the Encounter Vault was down/giving a 502 error.  Hopefully it will be back some day.  The crux of the puzzle was to figure out which creature went into which cage.
+When I checked on June 6 2026 the Encounter Vault was down/giving a 502 error.  Hopefully it will be back some day.  The crux of the puzzle was to figure out which creature went into which cage.  Without the text though this is pretty useless.
 
 The specific encounter - [Eliat’s Lost Familiars](https://encountervault.com/encounter/riddle/dungeon/eliat-s-lost-familiars) is a riddle/puzzle encounter, not combat.
 
