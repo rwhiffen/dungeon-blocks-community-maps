@@ -1,0 +1,260 @@
+{
+  "id": "5fb2e20e-7dc9-4f50-9b5d-3fdb0c5ff73d",
+  "modificationDate": "2026-04-06T17:04:48.266Z",
+  "description": "",
+  "creationDate": "2026-04-06T16:59:16.616Z",
+  "title": "Delian tomb room 3",
+  "ownerId": "E9DBlSHK4IPMhsJvxjkanpztjK53",
+  "levels": [
+    {
+      "index": 0,
+      "tiles": [
+        {
+          "element": "BB-001",
+          "orientation": 0,
+          "y": 0,
+          "x": 0
+        },
+        {
+          "element": "BB-001",
+          "orientation": 0,
+          "y": -3,
+          "x": 0
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "y": -3,
+          "element": "BB-001"
+        },
+        {
+          "x": 3,
+          "y": 0,
+          "element": "BB-001",
+          "orientation": 0
+        }
+      ]
+    },
+    {
+      "tiles": [
+        {
+          "x": 0,
+          "element": "UD-014",
+          "orientation": 3,
+          "y": 2
+        },
+        {
+          "x": 5,
+          "y": 2,
+          "orientation": 2,
+          "element": "UD-014"
+        },
+        {
+          "x": 5,
+          "orientation": 1,
+          "y": -3,
+          "element": "UD-014"
+        },
+        {
+          "x": 0,
+          "y": -3,
+          "element": "UD-014",
+          "orientation": 0
+        },
+        {
+          "element": "UD-001",
+          "y": 2,
+          "orientation": 3,
+          "x": 1
+        },
+        {
+          "x": 0,
+          "orientation": 0,
+          "element": "UD-001",
+          "y": 1
+        },
+        {
+          "y": 2,
+          "element": "UD-001",
+          "orientation": 3,
+          "x": 2
+        },
+        {
+          "x": 3,
+          "element": "UD-001",
+          "y": 2,
+          "orientation": 3
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "orientation": 3,
+          "element": "UD-001"
+        },
+        {
+          "orientation": 0,
+          "element": "UD-001",
+          "y": 0,
+          "x": 0
+        },
+        {
+          "x": 1,
+          "orientation": 1,
+          "y": -3,
+          "element": "UD-001"
+        },
+        {
+          "x": 2,
+          "y": -3,
+          "orientation": 1,
+          "element": "UD-001"
+        },
+        {
+          "x": 3,
+          "element": "UD-001",
+          "y": -3,
+          "orientation": 1
+        },
+        {
+          "x": 4,
+          "orientation": 1,
+          "element": "UD-001",
+          "y": -3
+        },
+        {
+          "x": 5,
+          "orientation": 2,
+          "element": "UD-001",
+          "y": -2
+        },
+        {
+          "element": "UD-001",
+          "y": -1,
+          "orientation": 2,
+          "x": 5
+        },
+        {
+          "x": 5,
+          "element": "UD-001",
+          "orientation": 2,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "orientation": 0,
+          "element": "UD-087",
+          "y": -2
+        },
+        {
+          "y": 1,
+          "orientation": 0,
+          "element": "UD-087",
+          "x": 4
+        },
+        {
+          "orientation": 0,
+          "element": "UD-087",
+          "y": 1,
+          "x": 1
+        },
+        {
+          "y": 1,
+          "orientation": 2,
+          "element": "UD-060",
+          "x": 5
+        },
+        {
+          "x": 4,
+          "orientation": 0,
+          "y": 0,
+          "element": "UD-016"
+        },
+        {
+          "x": 4,
+          "element": "UD-087",
+          "y": -2,
+          "orientation": 0
+        },
+        {
+          "x": 4,
+          "orientation": 0,
+          "y": -1,
+          "element": "UD-016"
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "element": "UD-016",
+          "y": 0
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "y": 1,
+          "element": "UD-016"
+        },
+        {
+          "orientation": 0,
+          "element": "UD-016",
+          "y": 1,
+          "x": 2
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "y": -2,
+          "element": "UD-016"
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "y": -1,
+          "element": "UD-016"
+        },
+        {
+          "element": "UD-016",
+          "y": -2,
+          "orientation": 0,
+          "x": 2
+        },
+        {
+          "x": 2,
+          "orientation": 0,
+          "element": "UD-016",
+          "y": -1
+        },
+        {
+          "orientation": 0,
+          "y": 0,
+          "element": "UD-016",
+          "x": 2
+        },
+        {
+          "element": "UD-016",
+          "orientation": 0,
+          "y": 0,
+          "x": 1
+        },
+        {
+          "orientation": 0,
+          "element": "UD-016",
+          "y": -1,
+          "x": 1
+        },
+        {
+          "x": 0,
+          "element": "UD-016",
+          "y": -2,
+          "orientation": 0
+        },
+        {
+          "y": -1,
+          "orientation": 0,
+          "element": "UD-016",
+          "x": 0
+        }
+      ],
+      "index": 1
+    }
+  ]
+}

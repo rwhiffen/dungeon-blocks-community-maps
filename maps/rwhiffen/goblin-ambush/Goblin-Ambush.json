@@ -1,0 +1,380 @@
+{
+  "creationDate": "2026-04-24T14:58:57.769Z",
+  "description": "",
+  "ownerId": "E9DBlSHK4IPMhsJvxjkanpztjK53",
+  "id": "b8c1c866-6059-4313-bbed-f63db0c2f193",
+  "levels": [
+    {
+      "index": 0,
+      "tiles": [
+        {
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -3,
+          "x": 6
+        },
+        {
+          "orientation": 0,
+          "element": "BB-004",
+          "y": 0,
+          "x": 6
+        },
+        {
+          "x": 6,
+          "y": 3,
+          "element": "BB-004",
+          "orientation": 0
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -3
+        },
+        {
+          "orientation": 0,
+          "y": -3,
+          "element": "BB-004",
+          "x": 0
+        },
+        {
+          "x": 3,
+          "y": 0,
+          "element": "BB-004",
+          "orientation": 0
+        },
+        {
+          "y": 0,
+          "element": "BB-004",
+          "orientation": 0,
+          "x": 0
+        },
+        {
+          "element": "BB-004",
+          "y": 3,
+          "orientation": 0,
+          "x": 3
+        },
+        {
+          "orientation": 0,
+          "element": "BB-004",
+          "y": 3,
+          "x": 0
+        },
+        {
+          "orientation": 0,
+          "y": 3,
+          "element": "BB-004",
+          "x": -3
+        },
+        {
+          "orientation": 0,
+          "element": "BB-004",
+          "y": 0,
+          "x": -3
+        },
+        {
+          "orientation": 0,
+          "y": -3,
+          "element": "BB-004",
+          "x": -3
+        },
+        {
+          "x": 6,
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -6
+        },
+        {
+          "orientation": 0,
+          "y": -6,
+          "element": "BB-004",
+          "x": 3
+        },
+        {
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -6,
+          "x": 0
+        },
+        {
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -6,
+          "x": -3
+        },
+        {
+          "x": -6,
+          "element": "BB-004",
+          "y": 3,
+          "orientation": 0
+        },
+        {
+          "element": "BB-004",
+          "y": 0,
+          "orientation": 0,
+          "x": -6
+        },
+        {
+          "y": -3,
+          "element": "BB-004",
+          "orientation": 0,
+          "x": -6
+        },
+        {
+          "orientation": 0,
+          "y": -6,
+          "element": "BB-004",
+          "x": -6
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -9
+        },
+        {
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -9,
+          "x": 6
+        },
+        {
+          "x": 0,
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -9
+        },
+        {
+          "y": -9,
+          "element": "BB-004",
+          "orientation": 0,
+          "x": -6
+        },
+        {
+          "y": -9,
+          "element": "BB-004",
+          "orientation": 0,
+          "x": -3
+        },
+        {
+          "orientation": 0,
+          "element": "BB-004",
+          "y": 0,
+          "x": -9
+        },
+        {
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -3,
+          "x": -9
+        },
+        {
+          "x": -9,
+          "orientation": 0,
+          "element": "BB-004",
+          "y": -6
+        },
+        {
+          "y": -9,
+          "element": "BB-004",
+          "orientation": 0,
+          "x": -9
+        },
+        {
+          "x": -9,
+          "orientation": 0,
+          "element": "BB-004",
+          "y": 3
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tiles": [
+        {
+          "x": 8,
+          "orientation": 2,
+          "y": -1,
+          "element": "MH-020"
+        },
+        {
+          "x": 8,
+          "element": "MH-004",
+          "y": 2,
+          "orientation": 2
+        },
+        {
+          "x": 6,
+          "element": "MH-004",
+          "y": 3,
+          "orientation": 0
+        },
+        {
+          "x": 3,
+          "y": -3,
+          "element": "MH-027",
+          "orientation": 0
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "y": 0,
+          "element": "MH-006"
+        },
+        {
+          "orientation": 1,
+          "y": 0,
+          "element": "MH-023",
+          "x": 2
+        },
+        {
+          "orientation": 0,
+          "element": "MH-005",
+          "y": 3,
+          "x": 3
+        },
+        {
+          "element": "MH-023",
+          "y": 3,
+          "orientation": 1,
+          "x": 2
+        },
+        {
+          "orientation": 0,
+          "y": -6,
+          "element": "MH-001",
+          "x": 6
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "element": "MH-001",
+          "y": -6
+        },
+        {
+          "x": -3,
+          "orientation": 0,
+          "element": "MH-001",
+          "y": 3
+        },
+        {
+          "orientation": 0,
+          "y": -6,
+          "element": "MH-001",
+          "x": -3
+        },
+        {
+          "x": 2,
+          "orientation": 1,
+          "y": -6,
+          "element": "MH-023"
+        },
+        {
+          "x": 0,
+          "element": "MH-015",
+          "y": -3,
+          "orientation": 0
+        },
+        {
+          "x": -3,
+          "y": -3,
+          "element": "MH-027",
+          "orientation": 0
+        },
+        {
+          "x": -6,
+          "y": 0,
+          "element": "MH-009",
+          "orientation": 0
+        },
+        {
+          "x": -6,
+          "element": "MH-014",
+          "y": 3,
+          "orientation": 0
+        },
+        {
+          "x": 3,
+          "orientation": 0,
+          "y": -9,
+          "element": "MH-001"
+        },
+        {
+          "orientation": 0,
+          "y": -9,
+          "element": "MH-001",
+          "x": 6
+        },
+        {
+          "element": "MH-022",
+          "y": -9,
+          "orientation": 1,
+          "x": 2
+        },
+        {
+          "x": -4,
+          "orientation": 2,
+          "y": -1,
+          "element": "MH-023"
+        },
+        {
+          "y": -7,
+          "element": "MH-022",
+          "orientation": 3,
+          "x": -3
+        },
+        {
+          "orientation": 0,
+          "y": -6,
+          "element": "MH-041",
+          "x": -6
+        },
+        {
+          "orientation": 0,
+          "y": -9,
+          "element": "MH-001",
+          "x": -6
+        },
+        {
+          "x": -9,
+          "y": -9,
+          "element": "MH-001",
+          "orientation": 0
+        },
+        {
+          "y": -6,
+          "element": "MH-002",
+          "orientation": 0,
+          "x": -9
+        },
+        {
+          "y": -3,
+          "element": "MH-026",
+          "orientation": 0,
+          "x": -9
+        },
+        {
+          "x": -9,
+          "orientation": 0,
+          "element": "MH-001",
+          "y": 0
+        },
+        {
+          "element": "MH-030",
+          "y": 0,
+          "orientation": 0,
+          "x": -3
+        },
+        {
+          "x": -9,
+          "orientation": 0,
+          "element": "MH-010",
+          "y": 3
+        }
+      ]
+    }
+  ],
+  "modificationDate": "2026-04-24T15:33:12.717Z",
+  "title": "Goblin Ambush"
+}
